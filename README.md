@@ -34,5 +34,3 @@ The dataset consists of two main parts:
 1. Common Misclassifications: Some commonly misclassified digits are displayed, providing insights into the model's performance.
 2. Impact of Changes: The impact of changing the number of basis vectors for specific digits is explored.
 
-## Usage
-Run the provided Python script to perform the analysis and obtain results. Adjust the parameters as needed for further experimentation.
